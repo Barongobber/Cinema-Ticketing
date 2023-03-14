@@ -1,6 +1,0 @@
-PopCornHoney 10
-PopCornHoney(Big) 15
-IcedCoffe 7
-IcedBlackCoffe 9
-MoccaBread 10
-MiniPizza 11
